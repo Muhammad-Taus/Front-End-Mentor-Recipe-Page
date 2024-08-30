@@ -38,6 +38,46 @@ h1, h2, h3, h4, h5, h6{
     width: 100%;
 }
 
-.container-content{
+.container .container-items .container-content{
+    padding: 35px;
+}
+
+.container .container-items .container-content h1{
+    line-height: 1.2;
+}
+
+.container .container-items .container-content .intro{
+    padding: 20px 0;
+}
+
+.container .container-items .container-content .preparation-time{
+    padding: 20px;
+}
+
+.container .container-items .container-content .preparation-time h3{
+    color: var(--Rose800);
+    font-family: "Outfit", sans-serif;
+    font-weight: 700;
     
+}
+
+.container .container-items .container-content .preparation-time ul{
+    padding-left: 25px;
+    padding-top: 10px;
+}
+
+.container .container-items .container-content .preparation-time ul li{
+    list-style-type: disc;
+    line-height: 2;
+    
+}
+
+.container .container-items .container-content .preparation-time ul li::marker{
+    color: var(--Rose800);
+    font-size: 15px;
+}
+
+
+.container .container-items .container-content .preparation-time ul li b{
+    color: var(--Stone600);
 }
