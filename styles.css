@@ -26,6 +26,7 @@ body{
     font-weight: 400;
     font-style: normal;
     background-color: var(--Rose50);
+    color: var(--Stone600);
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -155,3 +156,38 @@ h1, h2, h3, h4, h5, h6{
 .container .container-items .container-content .instructions .instructions-list div:last-child b{
     color: var(--Stone600);
 }
+
+
+.container .container-items .container-content .nutrition{
+    padding: 30px 0;
+}
+
+.container .container-items .container-content .nutrition h2{
+    padding-bottom: 15px;
+}
+
+.container .container-items .container-content .nutrition p{
+    padding-bottom: 15px;
+}
+
+.container .container-items .container-content .nutrition .nutrition-table .table-item{
+    border-bottom: 1px solid var(--Stone150);
+    padding-top: 10px;
+}
+
+.container .container-items .container-content .nutrition .nutrition-table .table-item span{
+    /* background-color: aqua; */
+    display: inline-block;
+    width: 150px;
+    height: 35px;
+}
+
+.container .container-items .container-content .nutrition .nutrition-table .table-item span:first-child{
+    padding-left: 30px;
+}
+
+.container .container-items .container-content .nutrition .nutrition-table .table-item span:last-child{
+    color: var(--Brown800);
+    font-weight: 700;
+}
+
