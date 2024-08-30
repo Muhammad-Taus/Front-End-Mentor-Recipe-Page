@@ -77,7 +77,13 @@ h1, h2, h3, h4, h5, h6{
     font-size: 15px;
 }
 
+.container .container-items .container-content .preparation-time ul li span{
+    margin-left: 20px;
+    display: block;
+}
+
 
 .container .container-items .container-content .preparation-time ul li b{
     color: var(--Stone600);
 }
+
