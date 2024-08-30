@@ -129,3 +129,29 @@ h1, h2, h3, h4, h5, h6{
     margin-left: 20px;
     display: block;
 }
+
+.container .container-items .container-content .instructions{
+    padding: 30px 0;
+}
+
+.container .container-items .container-content .instructions h2{
+    padding-bottom: 15px;
+}
+
+.container .container-items .container-content .instructions .instructions-list{
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.container .container-items .container-content .instructions .instructions-list .list-order{
+    color: var(--Brown800);
+    font-weight: 600;
+}
+
+.container .container-items .container-content .instructions .instructions-list div:last-child{
+    margin-left: 20px;
+}
+
+.container .container-items .container-content .instructions .instructions-list div:last-child b{
+    color: var(--Stone600);
+}
