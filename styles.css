@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .container{
-    max-width: 375px;
+   max-width: 375px;
 }
 
 .container img{
@@ -51,6 +51,7 @@ h1, h2, h3, h4, h5, h6{
 
 .container .container-items .container-content h1{
     line-height: 1.2;
+    color: black;
 }
 
 .container .container-items .container-content .intro{
