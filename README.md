@@ -21,8 +21,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Github]https://github.com/Muhammad-Taus/Front-End-Mentor-Recipe-Page-)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Muhammad-Taus/Front-End-Mentor-Recipe-Page)
+- Live Site URL: [Live site URL](https://mt-fem-recipe-page.netlify.app/)
 
 ## My process
 
